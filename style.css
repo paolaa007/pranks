@@ -2,7 +2,7 @@ body {
   background-color: lightskyblue;
 }
 p {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Roboto';
   line-height: 150%; 
   font-size: medium;
   color:purple;
@@ -16,6 +16,7 @@ h1 {
   }
 
 
+}
 li {
   font-family: sans-serif;
   color: purple;
